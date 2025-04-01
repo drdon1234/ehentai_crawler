@@ -13,7 +13,7 @@ BASE_URL = "https://e-hentai.org/g/3294676/721924eeb6/" # 暂时需要手动传�
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 }
-PROXIES = "http://127.0.0.1:7897"  # 必须配置
+PROXIES = "http://127.0.0.1:7897"  # 墙内必须配置代理，确保你的代理可用
 CONCURRENCY = 5  # 并发限制
 MAX_RETRIES = 10  # 最大重试次数
 TIMEOUT = 30  # 请求超时时间
