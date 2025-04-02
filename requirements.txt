@@ -1,0 +1,7 @@
+aiofiles
+aiohttp
+beautifulsoup4
+img2pdf
+natsort
+Pillow
+PyYAML
